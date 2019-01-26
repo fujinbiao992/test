@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li,a{
+    list-style: none;
+    text-decoration: none;
+}
+i{
+    /* 取消掉i标签的默认斜体 */
+    font-style: normal;
+}
+.w{
+    width: 1130px;
+    margin: 0 auto;
+}
